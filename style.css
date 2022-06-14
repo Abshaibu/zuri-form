@@ -117,8 +117,7 @@ input:focus {
 input[type="submit"] {
     border: none;
     outline: none;
-    /* color: #fff; */
-    color: red;
+    color: #fff;
     padding: 0.9rem 0 0.9rem 1.8rem;
     text-transform: capitalize;
     background: hsl(154, 59%, 51%);
